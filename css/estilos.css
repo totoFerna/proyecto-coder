@@ -516,6 +516,10 @@ main {
   margin-top: 25px;
 }
 
+.short{
+  object-fit: cover;
+}
+
 .conteiner-social {
   display: flex;
   justify-content: space-between;
