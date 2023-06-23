@@ -683,6 +683,23 @@ footer {
   padding-left: 200px;
 }
 
+h1{
+  padding-top: 10px;
+  margin-left: 20px;
+}
+
+.bio {
+  max-width: 600px;
+padding-left: 20px;
+padding-top: 20px;
+}
+
+.video-container{
+  position: absolute;
+  padding-left: 800px;
+  top: 180px;
+}
+
 @media (max-width: 700px) {
   * {
     margin: 0 auto;
